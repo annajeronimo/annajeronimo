@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff00bc&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fba4e4&height=120&section=header"/>
 
 ## Hello Word! My name is Ana Jerônimo
 💻 Atualmente trabalhando com desenvolvimento RPA | Python
@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/anaamaraljeronimo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="right"src="https://i.picasion.com/pic92/6ac9289faf6290c0da02104f0eeba2b2.gif" width="200" height="166" border="500" src="https://i.picasion.com/pic92/6ac9289faf6290c0da02104f0eeba2b2.gif">
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff00bc&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fba4e4&height=120&section=footer"/>
 
 
     
