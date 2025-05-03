@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fba4e4&height=120&section=header"/>
 
 ## Hello Word! My name is Ana Jerônimo
+
+🚧 **Perfil em reestruturação** 🚧  
 💻 Atualmente trabalhando com desenvolvimento RPA
 
 ###
